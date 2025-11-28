@@ -1,115 +1,114 @@
 <div align="center">
-  <img src="./images/Welcome.gif" width="400px">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=👋+Welcome+to+My+GitHub+Profile!;I'm+Abdulaziz+Mohamed+Abdulaziz!;🧬+Bioinformatics+%7C+R+%26+Python+for+Biomedical+Data" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi there 👋 I'm Abdulaziz Mohamed</h1>
-<h3 align="center">ISTQB-Certified Software Test Engineer | Automation Specialist | Solution Architecture Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-abdelrehem/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:mohamedabdelrehem32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://wa.me/+201011929211">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
-
----
-
-### 🛠️ Technical Arsenal
-
-**Testing Expertise:**  
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/REST_Assured-009688?logo=rest&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Appium-0066FF?logo=appium&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/SHAFT_Engine-000000?logo=gear&logoColor=white" height="25">
-
-**Development:**  
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="25">
-
-**CI/CD & DevOps:**  
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white" height="25">
-
----
-
-### 🚀 Featured Projects
-
-<div align="left">
-  <img src="./images/AZURE-DO.png" width="300px" alt="Azure-Do">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="80%" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
-**Azure-Do: From todo to done**    
-<img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" height="20">
+## 👨‍💻 **About Me**
 
-- Automated Task Creation in Azure Devops projects tailored to your sprint scope (Current/All Sprints, Web/Mobile/All)
-- Predefined Team Templates for Testing, Frontend, and Backend workflows with dynamic titles and configurations
-- Auto-Reflect Test Analysis Handle and reflect Test Analysis Tasks into user-friendly comments on User Stories for clear visibility
-- Auto create Enhancement work items with structured details for mentioned keyword in analysis rows.
-- One-Click Close tasks automatically when effort matches estimates, reducing manual follow-ups.
-- Fully Customizable Workflows Adjust sprints, tags, titles, and logic dynamically via environment variables for any team or project.
+- 🎓 Final-year **Biomedical Engineering student** at **Minia University**.
+- 🧬 Passionate about **Bioinformatics, Computational Biology, and Multi-Omics Data Analysis**.
+- 🐍 Main stack: **Python & R** for **data analysis, statistics, ML, and visualization**.
+- 📊 Interested in **genomics, transcriptomics, epigenomics, and medical data analysis**.
+- 📈 Enjoy working with **R (tidyverse, DESeq2, limma)** and **Python (pandas, NumPy, scikit-learn, matplotlib)**.
+- 💻 Check out my projects here on **[My GitHub Repositories](https://github.com/ZIZO54619?tab=repositories)**.
+- ✨ Looking for opportunities in **Bioinformatics / Data Science in healthcare**.
+- 🇪🇬 Based in **Cairo, Egypt**.
 
+> 💬 *Even if my GitHub language stats currently show more HTML, most of my work and interests are focused on **R, Python, and Bioinformatics***.
 
-<div align="left">
-  <img src="./images/SLSminiLogo.svg" width="200px" alt="SLS System">
+---
+
+## 🧬 **Bioinformatics & Research Interests**
+
+- 🔬 **Multi-Omics Integration**: combining transcriptomics, epigenomics, and other layers to understand disease mechanisms.
+- 🧠 **Neuro & MS Research**: analyzing brain tissue data for **multiple sclerosis** and related disorders.
+- 🧪 **Cancer Genomics**: working with real datasets from hospitals (e.g. 57357) to explore biomarkers and progression.
+- 🧩 **Feature Engineering & ML** on biological and clinical datasets.
+- 📉 **Differential Expression / Methylation Analysis** using tools in R and Python.
+- 📚 Always exploring new pipelines, tools, and workflows in **Bioinformatics**.
+
+---
+
+## 🛠️ **Skills & Tools**
+
+### 🧠 Programming & Data
+
+- **Languages:** Python, R, C/C++, Java, MATLAB  
+- **Data & ML:** pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter Notebook, R (tidyverse, ggplot2, DESeq2, limma)  
+- **Bioinformatics:** multi-omics integration, EMG signal processing, statistical analysis for biomedical data  
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,java,matlab" style="padding:5px;" />
+    <img src="https://skillicons.dev/icons?i=github,linux,vscode" style="padding:5px;" />
 </div>
 
-**Smart Special Needs & Logistic System (SLS)**    
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/IoT-FF6F00?logo=iot&logoColor=white" height="20">  
-- Integrated AR maintenance visualizations & AI-powered assistant (90% support reduction)  
-- Real-time vehicle monitoring system with 82% data efficiency boost  
-- Multi-platform solution: Embedded hardware + Flutter mobile app  
+---
+
+## 📚 **Highlighted Projects**
+
+- 🧠 **Multi-Omics Analysis of MS Brain Tissue**  
+  Differential expression & methylation analysis, cell-type deconvolution, and integration using **R** and multi-omics frameworks.
+
+- 🧬 **Haplotype Block Identification Research**  
+  Improved haplotype block identification runtime and resolution for 500+ genotype samples using **R**.
+
+- 🧪 **Multi-Omics Integration | 57357 Cancer Hospital**  
+  Integrated transcriptomic & epigenomic datasets to explore biomarkers related to cancer progression.
+
+- 💪 **Wearable EMG Fatigue Monitor**  
+  EMG signal processing & FFT analysis to detect neck muscle fatigue using **Python/MATLAB**.
+
+- 🤟 **Sign Language Translator App**  
+  CNN-based gesture recognition achieving ≈92% accuracy for real-time translation.
 
 ---
 
-### 🏆 Key Achievements
+## 📈 **GitHub Stats**
 
-- **GITEX 2024 Dubai** - Represented Egypt in the Arab IoT & AI Challenge
-- **ISTQB CTFL Certified** (Score: **85%**) - #241119008
-- **ISTQB CT-MAT Certified** (Score: **95%**) - #250312021
-- **Top 6** - Hult Prize Egypt 2024
-- **Silver Medalist** - Huawei ICT Competition 2023 (Network Track)
+<div align="center">
+    <a href="https://github.com/ZIZO54619">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
+    </a>
+    <a href="https://github.com/ZIZO54619">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
+    </a>
+</div>
 
----
-
-### 🎓 Education & Projects
-
-**B.Sc. Computer Engineering** @ Minia University <br>
-`GPA: 84.5% (4th Rank)`  
-`2024 Graduate | (SLS) Smart Special Needs & Logistic System Project (97.6/100)`
-
-**IGCSE**  
-`Dar El Tarbiah International School | Score: 98.6%`  
+<div align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ZIZO54619&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width="60%" />
+    </a>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🌐 **Let's Connect**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelrehem&layout=compact&theme=dracula">
-</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/abdelaziz-mohammed1" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:abdulaziz.mohamed.54619@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</div>
 
 ---
 
-### 💡 Philosophy
-*"Quality is never an accident; it is always the result of intelligent effort."* - John Ruskin
+## 🎯 **Profile Visitors**
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ZIZO54619&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+    <a href="https://github.com/ZIZO54619?tab=followers">
+        <img src="https://img.shields.io/github/followers/ZIZO54619?style=social" alt="GitHub Followers" />
+    </a>
+</div>
+
+---
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&color=F7B42C&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thanks+for+Stopping+By!+❤️;Let%E2%80%99s+Build+Data-Driven+Healthcare+Together!" />
+</h3>
