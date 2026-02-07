@@ -66,25 +66,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<div align="center">
-    <a href="https://github.com/ZIZO54619">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
-    </a>
-    <a href="https://github.com/ZIZO54619">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ZIZO54619&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width="60%" />
-    </a>
-</div>
-
----
-
 ## 🌐 **Let's Connect**
 
 <div align="center">
