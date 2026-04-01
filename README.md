@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+Researcher; Multi-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+Researcher;MMulti-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
 
 <br/>
 
