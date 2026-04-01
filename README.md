@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+%7C+Computational+Biology;Multi-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+Researcher;..Multi-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
 
 <br/>
@@ -15,25 +14,6 @@
 
 ## 🧬 About Me
 
-I'm a Biomedical Engineering student focused on **bioinformatics, computational biology, and multi-omics research**.
-
-- 🎓 Biomedical Engineering — Minia University
-- 🔬 Current direction: multi-omics and single-cell analysis workflows for disease biology
-- 🧠 Primary focus: bioinformatics/computational biology roles
-- 📊 Secondary adjacent focus: healthcare data science
-- 🐍 Core stack: **R** and **Python** for omics analysis, statistics, and reproducible pipelines
-
----
-
-## 🚀 Selected Repositories
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🫁 LUAD-MultiOmics-SingleCell](https://github.com/ZIZO54619/LUAD-MultiOmics-SingleCell) | Multi-omics and single-cell oriented analysis for LUAD research contexts. | R, Python |
-| [🧠 MS-multiomics-integration](https://github.com/ZIZO54619/MS-multiomics-integration) | Multi-omics integration workflow for multiple sclerosis datasets. | R |
-| [🧬 Multi-Omics-Integration-and-Analysis-Using-DIABLO](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-DIABLO) | Integration and analysis pipeline using the DIABLO framework. | R |
-| [🧪 Multi-Omics-Integration-and-Analysis-Using-MOFA2](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-MOFA2) | Multi-omics factor analysis workflow using MOFA2. | R |
-| [🤖 GenomicAI_App](https://github.com/ZIZO54619/GenomicAI_App) | Genomics-oriented application work combining AI-assisted analysis and usability. | Python |
 I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding complex diseases through multi-omics data integration and single-cell analysis.
 
 - 🎓 **Biomedical Engineering** — Minia University
@@ -57,26 +37,6 @@ I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding com
 ---
 
 ## 🛠️ Skills & Tools
-
-**Bioinformatics & Analysis**
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-scRNA--seq-blue?style=flat-square)
-![DESeq2](https://img.shields.io/badge/DESeq2-DE%20Analysis-green?style=flat-square)
-![limma](https://img.shields.io/badge/limma-Differential%20Analysis-orange?style=flat-square)
-![MOFA2](https://img.shields.io/badge/MOFA2-Factor%20Analysis-purple?style=flat-square)
-![DIABLO](https://img.shields.io/badge/DIABLO-mixOmics-red?style=flat-square)
-
-**Data & Workflow**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-visualization-blue?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Bioinformatics**
 
@@ -105,11 +65,6 @@ I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding com
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&hide=html,css" />
-
 
 <div align="center">
 
@@ -121,7 +76,6 @@ I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding com
 
 <div align="center">
 
-*Turning biological complexity into interpretable insights — one pipeline at a time.*
 *"Turning biological complexity into interpretable insights — one pipeline at a time."*
 
 </div>
