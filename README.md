@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+Researcher;MMulti-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+Researcher;Multi-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
 
 <br/>
 
@@ -29,9 +29,10 @@ I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding com
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🫁 LUAD-MultiOmics-SingleCell](https://github.com/ZIZO54619/LUAD-MultiOmics-SingleCell) | Multi-omics + scRNA-seq analysis of lung adenocarcinoma. Full pipeline: QC → integration → TME deconvolution → PTM analysis | R, Python |
-| [🔗 DIABLO Multi-Omics](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-DIABLO) | Supervised multi-omics integration using DIABLO framework for biomarker discovery | R |
-| [📊 MOFA2 Multi-Omics](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-MOFA2) | Unsupervised factor analysis across omics layers using MOFA2 | R |
-| [🤟 Sign Language Translator](https://github.com/ZIZO54619/sign-language-translator) | CNN-based real-time gesture recognition — ~92% accuracy | Python |
+| [🧠 MS-multiomics-integration](https://github.com/ZIZO54619/MS-multiomics-integration) | Multi-omics analysis of MS brain tissue — DEG + methylation, CIBERSORT immune deconvolution, MOFA/DIABLO integration. Identified 15 epigenetically regulated genes linked to remyelination failure | R |
+| [🧬 rnaseq-parkinson-exploratory-pipeline](https://github.com/ZIZO54619/rnaseq-parkinson-exploratory-pipeline) | End-to-end RNA-seq exploratory pipeline for Parkinson's disease data — QC, normalization, differential expression, and pathway enrichment | R, Python |
+| [🤖 GenomicAI_App](https://github.com/ZIZO54619/GenomicAI_App) | AI-powered genomic analysis app — ML models on high-dimensional omics data for disease prediction and biomarker discovery | Python |
+| [🤟 Sign Language Translator](https://github.com/ZIZO54619/sign-language-translator) | CNN-based real-time gesture recognition — ~92% accuracy, 1st place university competition | Python |
 
 ---
 
@@ -66,8 +67,14 @@ I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding com
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&hide=html,css" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZIZO54619&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
