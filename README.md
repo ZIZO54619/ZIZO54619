@@ -65,12 +65,10 @@ I'm a **Bioinformatics Researcher** based in Egypt, focused on understanding com
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&hide=html,css" />
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
+</p>
 
 <div align="center">
 
