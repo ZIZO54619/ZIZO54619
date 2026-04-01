@@ -1,48 +1,78 @@
-# Abdulaziz Mohamed Abdulaziz
+<div align="center">
 
-Biomedical Engineering student focused on **bioinformatics, computational biology, and multi-omics research**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdulaziz+Mohamed+%F0%9F%91%8B;Bioinformatics+%7C+Computational+Biology;Multi-Omics+%7C+Single-Cell+%7C+Cancer+Genomics" alt="Typing SVG" />
 
-I build reproducible analysis workflows in **R** and **Python** for biomedical datasets, with a primary focus on bioinformatics research and a secondary interest in healthcare data science.
+<br/>
 
-## About
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-mohammed1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulaziz.mohamed.54619@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZIZO54619)
 
-- Final-year Biomedical Engineering student at Minia University
-- Interested in transcriptomics, epigenomics, and multi-omics integration
-- Focused on practical, evidence-based analysis projects in public repositories
-- Open to bioinformatics and computational biology opportunities
+</div>
 
-## Focus Areas
+---
 
-- Multi-omics integration for biological insight generation
-- Differential analysis workflows in R/Python
-- Data-driven biomedical research support
-- Reproducible analysis and clear project documentation
+## 🧬 About Me
 
-## Core Stack
+I'm a Biomedical Engineering student focused on **bioinformatics, computational biology, and multi-omics research**.
 
-- **Languages:** R, Python
-- **Data & Visualization:** tidyverse, ggplot2, pandas, NumPy, matplotlib/seaborn
-- **Bioinformatics Workflows:** DESeq2, limma, multi-omics integration approaches
-- **Environment:** Linux, Git/GitHub, Jupyter
+- 🎓 Biomedical Engineering — Minia University
+- 🔬 Current direction: multi-omics and single-cell analysis workflows for disease biology
+- 🧠 Primary focus: bioinformatics/computational biology roles
+- 📊 Secondary adjacent focus: healthcare data science
+- 🐍 Core stack: **R** and **Python** for omics analysis, statistics, and reproducible pipelines
 
-## Selected Repositories
+---
 
-1. [LUAD-MultiOmics-SingleCell](https://github.com/ZIZO54619/LUAD-MultiOmics-SingleCell)  
-   Multi-omics and single-cell oriented analysis work focused on lung adenocarcinoma contexts.
+## 🚀 Selected Repositories
 
-2. [MS-multiomics-integration](https://github.com/ZIZO54619/MS-multiomics-integration)  
-   Multiple sclerosis-focused multi-omics integration and analysis pipeline development.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🫁 LUAD-MultiOmics-SingleCell](https://github.com/ZIZO54619/LUAD-MultiOmics-SingleCell) | Multi-omics and single-cell oriented analysis for LUAD research contexts. | R, Python |
+| [🧠 MS-multiomics-integration](https://github.com/ZIZO54619/MS-multiomics-integration) | Multi-omics integration workflow for multiple sclerosis datasets. | R |
+| [🧬 Multi-Omics-Integration-and-Analysis-Using-DIABLO](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-DIABLO) | Integration and analysis pipeline using the DIABLO framework. | R |
+| [🧪 Multi-Omics-Integration-and-Analysis-Using-MOFA2](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-MOFA2) | Multi-omics factor analysis workflow using MOFA2. | R |
+| [🤖 GenomicAI_App](https://github.com/ZIZO54619/GenomicAI_App) | Genomics-oriented application work combining AI-assisted analysis and usability. | Python |
 
-3. [Multi-Omics-Integration-and-Analysis-Using-DIABLO](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-DIABLO)  
-   Multi-omics integration workflow built around the DIABLO framework.
+---
 
-4. [Multi-Omics-Integration-and-Analysis-Using-MOFA2](https://github.com/ZIZO54619/Multi-Omics-Integration-and-Analysis-Using-MOFA2)  
-   Multi-omics factor-analysis workflow using MOFA2 for cross-modal biological signal discovery.
+## 🛠️ Skills & Tools
 
-5. [GenomicAI_App](https://github.com/ZIZO54619/GenomicAI_App)  
-   Bioinformatics-oriented application work at the intersection of genomics and AI-assisted analysis.
+**Bioinformatics & Analysis**
 
-## Let's Connect
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-scRNA--seq-blue?style=flat-square)
+![DESeq2](https://img.shields.io/badge/DESeq2-DE%20Analysis-green?style=flat-square)
+![limma](https://img.shields.io/badge/limma-Differential%20Analysis-orange?style=flat-square)
+![MOFA2](https://img.shields.io/badge/MOFA2-Factor%20Analysis-purple?style=flat-square)
+![DIABLO](https://img.shields.io/badge/DIABLO-mixOmics-red?style=flat-square)
 
-- LinkedIn: [abdelaziz-mohammed1](https://www.linkedin.com/in/abdelaziz-mohammed1)
-- Email: [abdulaziz.mohamed.54619@gmail.com](mailto:abdulaziz.mohamed.54619@gmail.com)
+**Data & Workflow**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-visualization-blue?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZIZO54619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO54619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&hide=html,css" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Turning biological complexity into interpretable insights — one pipeline at a time.*
+
+</div>
